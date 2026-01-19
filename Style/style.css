@@ -62,7 +62,7 @@
 }
 
 .banner{
-  background-image: url(/assets/hero-bg.png);
+  background-image: url(../assets/hero-bg.png);
   background-repeat: no-repeat;
  padding: 101px 525px; 
  align-items: center;
